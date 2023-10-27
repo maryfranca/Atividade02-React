@@ -15,3 +15,5 @@ function App() {
 }
 
 export default App
+
+// aqui é para chamar as rotas das paginas

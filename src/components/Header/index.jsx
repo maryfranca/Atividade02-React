@@ -6,14 +6,13 @@ function Header()
     return(
         <header className={styles.header}> 
             <Link to="/">
-            <span>Araújo.dev</span>   
+            <span>Mary</span>   
             </Link>
             
             <nav>
                 <Link to="/"> Home </Link> 
                 <Link  to="/sobre"> Sobre </Link>
-                <Link  to="/projetos"> Projetos  </Link>
-                <Link  to="/contatos"> Contatos </Link>
+                <Link  to="/contatos"> Contatos-Form </Link>
             </nav>
         </header>
     )

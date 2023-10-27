@@ -1,12 +1,14 @@
 import styles from './Sobre.module.css'
 import Header from '../../components/Header'
 import Footer from '../../components/Footer'
+
 function Sobre ()
 {
     return(
         <>
         <Header />
         <h1>Sobre</h1>
+        <h1>Tentando colocar bootstrap aqui</h1>
         <Footer />
         </>
     )

@@ -1,6 +1,7 @@
 import styles from './Home.module.css'
 import Header from '../../components/Header'
 import Footer from '../../components/Footer'
+// Aqui está importanto o menu e o rodape
 
 function Home ()
 {
@@ -11,8 +12,7 @@ function Home ()
             <div className={styles.apresentacao}>
                 <p className={styles.para}>
                     Olá sejam bem vindos! <br />
-                    <span>Nivaldo Araújo</span> <br />
-                    Dev FrontEnd
+                    <span></span> <br />
                 </p>
                 <button className={styles.btn}>Saiba mais sobre mim..</button>
             </div>
